@@ -1,6 +1,6 @@
 
 ## SELECT
----
+
 
 1.Selezionare tutte le software house americane (3)
 
@@ -72,7 +72,8 @@ Selezionare gli id dei videogame che hanno ricevuto almeno una recensione da ste
     WHERE `rating` = "5";
 
 
-BONUS
+### BONUS
+
 10.Selezionare il numero e la media delle recensioni per il videogioco con ID = 412 (review number = 12, avg_rating = 3.16 circa)
 
 11.Selezionare il numero di videogame che la software house con ID = 1 ha rilasciato nel 2018 (13)
@@ -83,7 +84,7 @@ BONUS
 
 ---
 ## *_GROUP BY_*
----
+
 
 1.Contare quante software house ci sono per ogni paese (3)
 
@@ -135,7 +136,7 @@ videogioco vogliamo solo l'ID) (500)
 
 ---
 ## JOIN
----
+
 
 1.Selezionare i dati di tutti giocatori che hanno scritto almeno una recensione, mostrandoli una sola volta (996)
 
